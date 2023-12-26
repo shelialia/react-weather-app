@@ -42,7 +42,7 @@ const Inputs = ({setQuery}) => {
             <input type='text' 
             value={city}
             onChange={(e) => setCity(e.currentTarget.value)}
-            placeholder='Enter a city or country name!'
+            placeholder=' Enter a city or country name!'
             className='text-xl font-light w-full shadow-xl focus: outline-none capitalize'></input>
             <FontAwesomeIcon icon={faSearch} size='lg' className='text-white cursor-pointer transition ease-out hover:scale-125' 
               onClick={handleSearchClick}/>
