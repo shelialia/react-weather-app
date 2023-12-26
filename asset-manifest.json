@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crate-weather-app/static/css/main.53d50d37.css",
+    "main.js": "/crate-weather-app/static/js/main.6c4788e0.js",
+    "index.html": "/crate-weather-app/index.html",
+    "main.53d50d37.css.map": "/crate-weather-app/static/css/main.53d50d37.css.map",
+    "main.6c4788e0.js.map": "/crate-weather-app/static/js/main.6c4788e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53d50d37.css",
+    "static/js/main.6c4788e0.js"
+  ]
+}
